@@ -1,0 +1,13 @@
+C:\Users\YanM1\Dropbox\Visual Studio Project\2048\2048\bin\Debug\2048.exe.config
+C:\Users\YanM1\Dropbox\Visual Studio Project\2048\2048\bin\Debug\2048.exe
+C:\Users\YanM1\Dropbox\Visual Studio Project\2048\2048\bin\Debug\2048.pdb
+C:\Users\YanM1\Dropbox\Visual Studio Project\2048\2048\bin\Debug\2048.xml
+C:\Users\YanM1\Dropbox\Visual Studio Project\2048\2048\obj\Debug\_2048.frmMenu.resources
+C:\Users\YanM1\Dropbox\Visual Studio Project\2048\2048\obj\Debug\_2048.Resources.resources
+C:\Users\YanM1\Dropbox\Visual Studio Project\2048\2048\obj\Debug\2048.vbproj.GenerateResource.cache
+C:\Users\YanM1\Dropbox\Visual Studio Project\2048\2048\obj\Debug\2048.vbproj.CoreCompileInputs.cache
+C:\Users\YanM1\Dropbox\Visual Studio Project\2048\2048\obj\Debug\2048.exe
+C:\Users\YanM1\Dropbox\Visual Studio Project\2048\2048\obj\Debug\2048.xml
+C:\Users\YanM1\Dropbox\Visual Studio Project\2048\2048\obj\Debug\2048.pdb
+C:\Users\YanM1\Dropbox\Visual Studio Project\2048\2048\obj\Debug\_2048.frmGame.resources
+C:\Users\YanM1\Dropbox\Visual Studio Project\2048\2048\obj\Debug\2048.vbprojAssemblyReference.cache
